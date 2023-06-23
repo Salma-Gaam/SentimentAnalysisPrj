@@ -1,7 +1,9 @@
 # E-Commerce Sentiment Analysis Project
-## Problem: Sentiment Analysis for Amazon Product Reviews
-Sentiment analysis is a valuable tool for understanding and classifying the sentiment expressed in customer reviews of Amazon products. The goal is to predict the sentiment or overall score assigned by a customer based on their review text.
-## Solution: Sentiment Analysis Model for Amazon Product Reviews
+## Problem
+The problem is to determine the level of client satisfaction based on the reviews or comments provided on products.  
+The challenge lies in extracting meaningful insights and sentiments from these reviews and accurately assessing the overall satisfaction of clients without explicit satisfaction scores. By leveraging natural language processing techniques and sentiment analysis, the goal is to develop a reliable and accurate model that can interpret the textual feedback from clients and estimate their satisfaction levels effectively. 
+
+## Solution
 The problem at hand is to develop a sentiment analysis model that can accurately predict the sentiment or score assigned by customers in their reviews of Amazon products.
 
 ## Implementation
